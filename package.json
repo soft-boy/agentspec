@@ -1,10 +1,10 @@
 {
-  "name": "agentspec",
+  "name": "@soft-boy/agentspec",
   "version": "0.1.0",
   "description": "Markdown based AI agent specification",
   "type": "module",
   "bin": {
-    "agentspec": "./bin/agentspec.js"
+    "agentspec": "bin/agentspec.js"
   },
   "files": [
     "bin"
@@ -12,5 +12,8 @@
   "engines": {
     "node": ">=18"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }

@@ -3,7 +3,7 @@
 ## Install
 
 ```sh
-npm install -g agentspec
+npm install -g @soft-boy/agentspec
 ```
 
 ## Usage
