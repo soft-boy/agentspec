@@ -1,0 +1,16 @@
+{
+  "name": "agentspec",
+  "version": "0.1.0",
+  "description": "Markdown based AI agent specification",
+  "type": "module",
+  "bin": {
+    "agentspec": "./bin/agentspec.js"
+  },
+  "files": [
+    "bin"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
